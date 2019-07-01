@@ -7,7 +7,7 @@ You can see a live demo of the system:
 
 * [Preview](http://statistics.ang.center)
 
-#TECH
+##TECH
 - Apache 2
 - PHP 5.6+
 - MySQL
