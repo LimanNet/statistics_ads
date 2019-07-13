@@ -1,4 +1,6 @@
 # Statistics Ads
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLimanNet%2Fstatistics_ads.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLimanNet%2Fstatistics_ads?ref=badge_shield)
+
 
 A simple accounting system for users of various Internet resources on which an ad unit is installed, and according to which users made clicks.
 
@@ -62,3 +64,7 @@ ISO коду страны), количество показов, количес�
 ### Дополнительно
 - Учтены все возможные ситуации при удалении одного из параметров в системе и
 влияние на дальнейшую работу в целом.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLimanNet%2Fstatistics_ads.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLimanNet%2Fstatistics_ads?ref=badge_large)
